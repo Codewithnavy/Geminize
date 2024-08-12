@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - lootable
+  - hint
+  - dialog_box
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - solidObjects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UnderGround
+    uniqueID: 512092807
+    locked: 0
+  - name: BackGround
+    uniqueID: 3343269741
+    locked: 0
+  - name: Foreground02
+    uniqueID: 1752420189
+    locked: 0
+  - name: Background02
+    uniqueID: 3333607415
+    locked: 0
+  - name: Player
+    uniqueID: 4147043137
+    locked: 0
+  - name: ForeGround
+    uniqueID: 1930990251
+    locked: 0
+  - name: AboveAll00
+    uniqueID: 2217470099
+    locked: 0
+  - name: AboveAll
+    uniqueID: 3918408531
+    locked: 0
+  - name: SideMap01Player
+    uniqueID: 2826393743
+    locked: 0
